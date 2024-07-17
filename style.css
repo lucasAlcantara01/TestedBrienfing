@@ -91,6 +91,7 @@ header {
   color: black;
   font-weight: 800;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .button:hover {
